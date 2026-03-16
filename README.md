@@ -1,4 +1,5 @@
 # 🧠 Inteligência Artificial: Da Evolução Histórica ao Aprendizado Ativo
+https://notebooklm.google.com/notebook/99b90bdc-99be-450f-ba15-9440bb188e11
 
 ## 📌 Sobre o Projeto
 Este repositório contém o resultado do desafio prático da plataforma **DIO**, focado em utilizar o **NotebookLM** como ferramenta de aprendizado ativo. O objetivo foi criar um ecossistema de estudos que organiza a **evolução histórica da IA** para entender como ela se integra ao nosso cotidiano.
